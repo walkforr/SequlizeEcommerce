@@ -1,0 +1,25 @@
+{
+  "name": "sequlizeecommerce",
+  "version": "1.0.0",
+  "description": "E-commerce Website made with Sequelize.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql2": "^1.6.3",
+    "sequelize": "^4.41.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walkforr/SequlizeEcommerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walkforr/SequlizeEcommerce/issues"
+  },
+  "homepage": "https://github.com/walkforr/SequlizeEcommerce#readme"
+}
